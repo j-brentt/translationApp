@@ -10,5 +10,5 @@ Author: Jordan Brent
 
 READ ME:
 
-Welcome to my translation app!.
+Welcome to my translation app!
 
