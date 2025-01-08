@@ -6,16 +6,15 @@
                                                                                      /_/   /_/      
 Author: Jordan Brent
 
-Welcome to my translation app!
+Welcome to my Translation App!
 
 # Intro
-
-This application that I created utilizes Google's newest API for Translate alongside its newest improvments regarding AI.
+This application that I created utilizes Google's newest API for Translate alongside its newest improvements.
 
 ## Built with
 - Python
 - PyQt6
-- Google Translate
+- Google Translate API
 
 
 ## Instructions on running 
@@ -26,11 +25,9 @@ This application that I created utilizes Google's newest API for Translate along
      ```py
    pip install PyQt6
    ```
-3. Upon cloning the respository from GitHub, all that needs to be done next is to run the 
+3. Upon cloning the respository from GitHub, all that needs to be done next is to run the translationApplication.py script.
 
-
-
+ 
 ### Contact Information
-Email     - jabrent@icloud.com 
-/newline
+Email     - jabrent@icloud.com\
 Repo Link - https://github.com/j-brentt/translationApp.git
