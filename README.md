@@ -17,15 +17,18 @@ This application that I created utilizes Google's newest API for Translate along
 
 
 ## Instructions on running 
-1. First ensure that your machine has intalled the latest version of Python. Here's a quick guide:
-   https://www.datacamp.com/blog/how-to-install-python
+1. First ensure that your machine has intalled the latest version of Python.
+   \href{https://www.datacamp.com/blog/how-to-install-python}{Here's a quick guide.} 
 
-2. Next, make sure that the PyQt6 module is also installed, which is key to run the app
+3. Next, make sure that the PyQt6 module is also installed, which is key to run the app
      ```py
    pip install PyQt6
    ```
 
 
+
+
 ### Contact Information
-Email     - jabrent@icloud.com
+Email     - jabrent@icloud.com 
+/newline
 Repo Link - https://github.com/j-brentt/time2code.git
