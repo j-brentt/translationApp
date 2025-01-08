@@ -18,7 +18,7 @@ This application that I created utilizes Google's newest API for Translate along
 
 ## Instructions on running 
 1. First ensure that your machine has intalled the latest version of Python.
-   \href{https://www.datacamp.com/blog/how-to-install-python}{Here's a quick guide.} 
+   [Here's a quick guide from Data Camp](https://www.datacamp.com/blog/how-to-install-python)
 
 3. Next, make sure that the PyQt6 module is also installed, which is key to run the app
      ```py
