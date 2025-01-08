@@ -8,4 +8,14 @@ Author: Jordan Brent
 
 Welcome to my translation app!
 
-### DevTools
+### Intro
+
+## Built with
+
+
+
+# Instructions on running 
+
+
+
+Contact Information
