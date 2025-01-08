@@ -8,13 +8,15 @@ Author: Jordan Brent
 
 Welcome to my translation app!
 
-### Intro
+# Intro
+
+This application that I created utilizes Google's newest API for Translate alongside its newest improvments regarding the AI implementation of their software.
 
 ## Built with
+- Python
 
 
-
-# Instructions on running 
+### Instructions on running 
 
 
 
