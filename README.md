@@ -10,25 +10,27 @@ Welcome to my translation app!
 
 # Intro
 
-This application that I created utilizes Google's newest API for Translate alongside its newest improvments regarding the AI implementation of their software.
+This application that I created utilizes Google's newest API for Translate alongside its newest improvments regarding AI.
 
 ## Built with
 - Python
+- PyQt6
+- Google Translate
 
 
 ## Instructions on running 
 1. First ensure that your machine has intalled the latest version of Python.
-   [Here's a quick guide from Data Camp](https://www.datacamp.com/blog/how-to-install-python)
+   [Here's a quick guide.](https://www.datacamp.com/blog/how-to-install-python)
 
-3. Next, make sure that the PyQt6 module is also installed, which is key to run the app
+2. Next, make sure that the PyQt6 module is also installed, which is key to run the app
      ```py
    pip install PyQt6
    ```
-
+3. Upon cloning the respository from GitHub, all that needs to be done next is to run the 
 
 
 
 ### Contact Information
 Email     - jabrent@icloud.com 
 /newline
-Repo Link - https://github.com/j-brentt/time2code.git
+Repo Link - https://github.com/j-brentt/translationApp.git
