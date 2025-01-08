@@ -6,9 +6,6 @@
                                                                                      /_/   /_/      
 Author: Jordan Brent
 
-
-
-READ ME:
-
 Welcome to my translation app!
 
+### DevTools
