@@ -25,7 +25,7 @@ This application that I created utilizes Google's newest API for Translate along
      ```py
    pip install PyQt6
    ```
-3. Upon cloning the respository from GitHub, all that needs to be done next is to run the translationApplication.py script.
+3. Upon cloning the respository from GitHub, all that needs to be done next is to run the translationApplication.py script in your favourite IDE.
 
  
 ### Contact Information
