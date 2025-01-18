@@ -33,8 +33,7 @@ The API key included in the initial commits of this repository is **expired** an
       ```py
    TRANSLATOR_API_KEY=<your-api-key-here>
    ```
-4. Next, run the translationApp.py file to bring up the UI and happy translating!     
-
+4. Next, run the translationApp.py file to bring up the UI and happy translating!<br/><br/>     
    
 ### Contact Information
 Email     - jabrent@icloud.com\
