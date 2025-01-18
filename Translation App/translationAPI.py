@@ -1,11 +1,15 @@
 import requests, uuid, json
+import os
+from dotenv import load_dotenv 
 
 class Translate:
 
     def __init__(self):
-        self.key = "dc717eee1a56485bb988471b623ddfd1"
+        load_dotenv()
+
+        self.key = os.getenv("TRANSLATOR_API_KEY")
+        self.location = os.getenv("TRANSLATOR_REGION", "canadacentral")  # Defaults to "canadacentral" if not set in .env file
         self.endpoint = "https://api.cognitive.microsofttranslator.com"
-        self.location = "canadacentral"
         self.path = '/translate'
         self.constructed_url = self.endpoint + self.path
         self.chosen_lang = ''
