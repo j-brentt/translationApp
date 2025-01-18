@@ -18,7 +18,7 @@ This application that I created utilizes Microsoft's translate API for translati
 - Microsoft Translate API
 
 ### Warning
-The API key included in the initial commits of this repository is **expired** and no longer functional. To run this project, you need to set up your own API key and configure it as an environment variable (`TRANSLATOR_API_KEY`).
+The API key included in the initial commits of this repository is **expired** and no longer functional. To run this project, you need to set up your own API key and configure it as an environment variable (`TRANSLATOR_API_KEY`). Steps for this are easily explained below.
 
 ## Instructions on running 
 1. First ensure that your machine has intalled the latest version of Python.
