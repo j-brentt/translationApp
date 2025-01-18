@@ -9,7 +9,7 @@ Author: Jordan Brent
 Welcome to my Translation App!
 
 # Intro
-This application that I created utilizes Microsoft's translate API for various language applications.
+This application that I created utilizes Microsoft's translate API for translating from English to a variety of languages.
 
 ## Built with
 - Python
@@ -26,7 +26,13 @@ This application that I created utilizes Microsoft's translate API for various l
      ```py
    pip install PyQt6
    ```
-3. Upon cloning the respository from GitHub, all that needs to be done next is to run the translationApplication.py script within your favourite IDE.  
+3. Upon cloning the respository from GitHub, ensure to create a `.env` file in your root directory containing your Translate API key.
+   This can be done as so,
+      ```py
+   TRANSLATOR_API_KEY=<your-api-key-here>
+   ```
+4. Next, run the translationApp.py file to bring up the UI and happy translating!    
+
    
    
 ### Contact Information
