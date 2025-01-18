@@ -9,12 +9,13 @@ Author: Jordan Brent
 Welcome to my Translation App!
 
 # Intro
-This application that I created utilizes Google's newest API for Translate alongside its newest improvements.
+This application that I created utilizes Microsoft's translate API for various language applications.
 
 ## Built with
 - Python
 - PyQt6
-- Google Translate API
+- Microsoft Azure
+- Microsoft Translate API
 
 
 ## Instructions on running 
@@ -25,7 +26,7 @@ This application that I created utilizes Google's newest API for Translate along
      ```py
    pip install PyQt6
    ```
-3. Upon cloning the respository from GitHub, all that needs to be done next is to run the translationApplication.py script in your favourite IDE.
+3. Upon cloning the respository from GitHub, all that needs to be done next is to run the translationApplication.py script within your favourite IDE.  
    
    
 ### Contact Information
